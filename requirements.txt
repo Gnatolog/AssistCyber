@@ -1,0 +1,17 @@
+black==24.10.0
+certifi==2024.8.30
+charset-normalizer==3.4.0
+click==8.1.7
+idna==3.10
+loguru==0.7.2
+mypy-extensions==1.0.0
+packaging==24.1
+pathspec==0.12.1
+peewee==3.17.7
+platformdirs==4.3.6
+pyTelegramBotAPI==4.23.0
+python-dotenv==1.0.1
+requests==2.32.3
+tomli==2.0.2
+typing_extensions==4.12.2
+urllib3==2.2.3
